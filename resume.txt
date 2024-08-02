@@ -1,1 +1,156 @@
- 
+## Example Output
+
+{
+  "personal_information": {
+    "name": "Samiksha Laxman Gurakhe",
+    "email": ["samiksha.gurakhe21@vit.edu", "samikshagurakhe@gmail.com"],
+    "phone": "+91 9146087658",
+    "location": "Pune, India"
+  },
+  "education": [
+    {
+      "institution": "Vishwakarma Institute of Technology",
+      "location": "Pune, India",
+      "degree": "Bachelor of Engineering in Electronics & Telecommunication Engineering",
+      "start_date": "Dec 2021",
+      "end_date": "Present",
+      "cgpa": "7.8"
+    },
+    {
+      "institution": "Saraswati Vidya Mandir Pachal",
+      "location": "Ratnagiri, India",
+      "degree": "HSC",
+      "start_date": "August 2020",
+      "end_date": "May 2021",
+      "percentage": "79.33"
+    },
+    {
+      "institution": "Jawahar Navodaya Vidyalaya",
+      "location": "Ratnagiri, India",
+      "degree": "SSC, CBSE",
+      "start_date": "July 2017",
+      "end_date": "May 2019",
+      "percentage": "80"
+    }
+  ],
+  "technical_skills": {
+    "programming_languages": ["Java", "Python", "C", "C++", "R"],
+    "databases": ["MySQL"],
+    "web_technologies": ["Graphic design", "HTML", "CSS", "PHP", "JavaScript", "Node.js", "React"],
+    "tools": ["Git", "Android Studio", "XAMPP server", "Arduino UNO", "VScode", "Vivado", "UART"]
+  },
+  "certifications": [
+    {
+      "name": "Python for Beginners",
+      "organization": "openSAP"
+    },
+    {
+      "name": "Internet of Things",
+      "organization": "Upskillz"
+    },
+    {
+      "name": "Mimamsa Hackathon, IISER Pune 2022 Prelims Round",
+      "organization": ""
+    },
+    {
+      "name": "Affordable Small Radio Telescope Conference 15th ICCCNT",
+      "organization": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "E-Grocery Website",
+      "description": "Developed a grocery ordering website where local shopkeepers can sell their products. Buyers have the option to either pick up their groceries or get them delivered."
+    },
+    {
+      "name": "Travel Management System - DBMS, JAVA",
+      "description": "Frontend: Java Swing, Backend: MySQL. Project provided hands-on experience in frontend development and utilizing MySQL for backend."
+    },
+    {
+      "name": "Farmers buddy- DBMS, JAVA",
+      "description": "Frontend: Java Swing, Backend: MySQL. Implemented a marketplace within the application, included information section on government schemes, markets, news, and soil data."
+    },
+    {
+      "name": "Chatbot in PHP",
+      "description": "Developed a chatbot using PHP that interacts with users in real-time, providing information and assistance based on user queries. The chatbot employs natural language processing to understand user inputs and generate appropriate responses, enhancing user engagement and support."
+    },
+    {
+      "name": "Donut Game using OpenCV in Python",
+      "description": "Created an interactive game using OpenCV in Python. The game involves detecting and recognizing donuts in real-time, enhancing image processing skills."
+    },
+    {
+      "name": "Safety with Technology: A Smart SoS Device using IoT",
+      "description": "Developed an IoT device using Raspberry Pi for women's safety. The SOS system sends alert messages along with real-time pictures in case of a threat."
+    },
+    {
+      "name": "Cryptocurrency Price Prediction using R",
+      "description": "Conducted a data science project to predict cryptocurrency prices using R. The project involved data analysis, model building, and prediction techniques."
+    },
+    {
+      "name": "Map Navigation App using Data Structures",
+      "description": "Developed a map navigation app that helps users with directions and shows nearby hotels and restaurants when a location is selected. The project utilized data structures for efficient navigation."
+    },
+    {
+      "name": "Affordable Small Radio Telescope",
+      "description": "Constructed an Affordable Small Radio Telescope (ASRT) using DTH satellite components. Focused on solar studies, the project provided hands-on experience in radio astronomy and RF engineering, enabling students to assemble and use the telescope under supervision."
+    },
+    {
+      "name": "Butterfly Detection and Identification",
+      "description": "Developed a deep learning model using ResNet50 to detect and identify 100 butterfly species in the Sahyadri region of Maharashtra with 93.2% accuracy, aiding biodiversity conservation through automated species identification."
+    }
+  ],
+  "previous_experience": [
+    {
+      "role": "Participant",
+      "organization": "Mimamsa Hackathon 2022"
+    },
+    {
+      "role": "ML Intern",
+      "organization": "DRDO, Pune"
+    }
+  ],
+  "relevant_coursework": [
+    "Algorithms and Data Structures",
+    "Data Science",
+    "Theory of Computation",
+    "Programming Languages & Techniques",
+    "Architecture (C, Python, R, Java)",
+    "IoT",
+    "Embedded Systems",
+    "Database Management System",
+    "Mobile Application Development",
+    "Android Development",
+    "Robot Machine and Electronics",
+    "Digital Systems",
+    "Electronics",
+    "Data Communication",
+    "Object Oriented Programming",
+    "Computer Network Security",
+    "Design and Analysis of Algorithm",
+    "Web Technology",
+    "Operating Systems",
+    "Digital Signal Processing",
+    "Digital Design",
+    "Computer Vision",
+    "Embedded System Design"
+  ],
+  "extracurriculars": [
+    {
+      "activity": "Volunteer",
+      "organization": "Utkarsh",
+      "year": "Mar 2022 – Apr 2022",
+      "description": "Utkarsh is a literacy program for children who don’t have access to proper education."
+    },
+    {
+      "activity": "Volunteer",
+      "organization": "Bhoomi Foundation",
+      "description": "This program is about going to slum areas and teaching people the importance of education and RTE."
+    },
+    {
+      "activity": "Domain Head at Aaroha, Marketing, Content and Social Media Head",
+      "organization": "Aaroha",
+      "year": "Aug 2022 – Present",
+      "description": "Aaroha is the official music club of VIT, Pune."
+    }
+  ]
+}
