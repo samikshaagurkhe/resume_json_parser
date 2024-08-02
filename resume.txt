@@ -1,4 +1,4 @@
-## Example Input
+## Example Output
 
 {
   "personal_information": {
